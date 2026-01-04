@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
     "@stdlib/object-inverse": "github:stdlib-js/object-inverse#main",
-    "@stdlib/stats-base-ztest-alternatives": "github:stdlib-js/stats-base-ztest-alternatives#main"
+    "@stdlib/stats-base-ztest-alternatives": "github:stdlib-js/stats-base-ztest-alternatives#main",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/stats-base-ztest-alternative-str2enum": "github:stdlib-js/stats-base-ztest-alternative-str2enum#main",
