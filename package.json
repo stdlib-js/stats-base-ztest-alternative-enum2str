@@ -38,8 +38,8 @@
   },
   "dependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
-    "@stdlib/object-inverse": "github:stdlib-js/object-inverse#main",
-    "@stdlib/stats-base-ztest-alternatives": "^0.1.0"
+    "@stdlib/object-inverse": "^0.1.0",
+    "@stdlib/stats-base-ztest-alternatives": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/stats-base-ztest-alternative-str2enum": "^0.1.0",
