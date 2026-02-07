@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import enum2str from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ztest-alternative-enum2str@deno/mod.js';
+import enum2str from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ztest-alternative-enum2str@v0.1.1-deno/mod.js';
 ```
 
 #### enum2str( value )
@@ -98,7 +98,7 @@ var v = enum2str( -999999999 );
 
 ```javascript
 import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ztest-alternative-str2enum@deno/mod.js';
-import enum2str from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ztest-alternative-enum2str@deno/mod.js';
+import enum2str from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ztest-alternative-enum2str@v0.1.1-deno/mod.js';
 
 var str = enum2str( str2enum( 'two-sided' ) );
 // returns 'two-sided'
