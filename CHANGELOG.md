@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-07-17)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`cf00dcc`](https://github.com/stdlib-js/stdlib/commit/cf00dcc6afd4c446c396910dd7b0d89bdaff7410) - **chore:** resolve lint errors _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-07)
